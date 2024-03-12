@@ -15,5 +15,5 @@
     "hotkeypad": "0.1.0",
     "typescript": "5.3.3"
   },
-  "packageManager": "pnpm"
+  "packageManager": "pnpm@8"
 }
