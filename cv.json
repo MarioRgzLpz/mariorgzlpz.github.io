@@ -1,0 +1,210 @@
+{
+  "basics": {
+    "name": "Mario Rodriguez Lopez",
+    "label": "Maths and Computer Science Student",
+    "image": "/me.webp",
+    "email": "mariorgzlpz1809@gmail.com",
+    "phone": "+34 638235918",
+    "url": "https://mariorgzlpz.github.io/",
+    "summary": "I'm a Maths and Computer Science student at the University of Granada. I'm a passionate about programming and cibersecurity.",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "Granada",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "midudev",
+        "url": "https://linkedin.com/in/MarioRgzLpz"
+      },
+      {
+        "network": "GitHub",
+        "username": "midudev",
+        "url": "https://github.com/MarioRgzLpz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Maths and Computer Science Tutor",
+      "position": "Private Tutor",
+      "url": "",
+      "startDate": "2022-09-10",
+      "endDate": null,
+      "summary": "I'm a private tutor of Maths and Computer Science for high school and undergraduated students.",
+      "highlights": [
+        "Maths", "Algebra", "Calculus"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "University of Granada",
+    "url": "https://www.ugr.es/",
+    "area": "Maths and Computer Science",
+    "studyType": "Bachelor",
+    "startDate": "2019-09-01",
+    "endDate": "2025-07-01",
+    "score": "6.3",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Advanced",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate-Advanced",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Basic",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Intermediate-Advanced",
+      "keywords": [
+        "Web Development", "Backend", "Forms+sticky", "PHP+MySQL"
+      ]
+    },
+    {
+      "name": "C++",
+      "level": "Advanced",
+      "keywords": [
+        "All basics"
+      ]
+    },
+    {
+      "name": "Pyhton",
+      "level": "Intermediate",
+      "keywords": [
+        "LOT"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": [
+        "POO"
+      ]
+    },
+    {
+      "name": "Ruby",
+      "level": "Intermediate",
+      "keywords": [
+        "POO"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Data Bases", "SQL", "Query", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Branching", "Commits", "Pull request", "Issues", "Git"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Branching", "Commits", "Pull request", "Issues", "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Complainopolis",
+      "isActive": true,
+      "description": "Proyect for TW subject",
+      "highlights": [
+        "HTML+CSS+JS","MySQL","PHP"
+      ],
+      "url": "https://github.com/MarioRgzLpz/ProyectComplainopolis",
+      "github": "https://github.com/MarioRgzLpz/ProyectComplainopolis"
+    },
+    {
+      "name": "Oriented Object Design & Programming",
+      "isActive": true,
+      "description": "Proyect for PDOO subject",
+      "highlights": [
+        "Java","Ruby","Netbeans","AWT"
+      ],
+      "url": "https://github.com/MarioRgzLpz/PDOO",
+      "github": "https://github.com/MarioRgzLpz/PDOO"
+    },
+    {
+      "name": "Graphical Computing",
+      "isActive": true,
+      "description": "Proyect for IG subject",
+      "highlights": [
+        "C++","OpenGL","GLUT","GLM"
+      ],
+      "url": "https://github.com/MarioRgzLpz/IG2024",
+      "github": "https://github.com/MarioRgzLpz/IG2024"
+    },
+    {
+      "name": "Web Aplications Development",
+      "isActive": true,
+      "description": "Proyect for DAI subject",
+      "highlights": [
+        "Python+Flask","HTML+CSS+JS","Bootstrap","MongoDB","Docker","Docker-Compose","Nginx","Gunicorn"
+      ],
+      "url": "https://github.com/MarioRgzLpz/DAI",
+      "github": "https://github.com/MarioRgzLpz/DAI"
+    }
+  ]
+}
