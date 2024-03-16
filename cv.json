@@ -40,7 +40,8 @@
       ]
     }
   ],
-  "education": [{
+  "education": [
+    {
     "institution": "University of Granada",
     "url": "https://www.ugr.es/",
     "area": "Maths and Computer Science",
@@ -49,9 +50,20 @@
     "endDate": "2025-07-01",
     "score": "6.3",
     "courses": [
-      "DB1101 - Basic SQL"
     ]
-  }],
+    },
+    {
+      "institution": "Cambridge English Language Assessment",
+      "url": "https://www.cambridgeenglish.org/",
+      "area": "B2 First",
+      "studyType": "Certificate",
+      "startDate": "2016-09-01",
+      "endDate": "2017-08-01",
+      "score": "6.3",
+      "courses": [
+      ]
+      }
+  ],
   "certificates": [{
     "name": "Certificate",
     "date": "2021-11-07",
@@ -141,6 +153,13 @@
       "level": "Intermediate",
       "keywords": [
         "Branching", "Commits", "Pull request", "Issues", "Git"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Docker-compose", "Dockerfile", "Docker", "Docker hub"
       ]
     }
   ],
