@@ -6,7 +6,7 @@
     "email": "mariorgzlpz1809@gmail.com",
     "phone": "+34 638235918",
     "url": "https://mariorgzlpz.github.io/",
-    "summary": "I'm a Maths and Computer Science student at the University of Granada. I'm a passionate about programming and cibersecurity.",
+    "summary": "I'm a Maths and Computer Science student at the University of Granada. I'm a passionate about programming and cibersecurity specifically in pentesting.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -53,6 +53,17 @@
     ]
     },
     {
+      "institution": "ESTALMAT Project",
+      "url": "https://www.estalmat.org/",
+      "area": "Stimulation of Mathematical Talents",
+      "studyType": "Certificate",
+      "startDate": "2015-09-01",
+      "endDate": "2019-07-01",
+      "score": "6.3",
+      "courses": [
+      ]
+    },
+    {
       "institution": "Cambridge English Language Assessment",
       "url": "https://www.cambridgeenglish.org/",
       "area": "B2 First",
@@ -63,6 +74,7 @@
       "courses": [
       ]
       }
+      
   ],
   "certificates": [{
     "name": "Certificate",
