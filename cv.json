@@ -6,7 +6,7 @@
     "email": "mariorgzlpz1809@gmail.com",
     "phone": "+34 638235918",
     "url": "https://mariorgzlpz.github.io/",
-    "summary": "I'm a Maths and Computer Science student at the University of Granada. I'm a passionate about programming and cibersecurity specifically in pentesting.",
+    "summary": "I'm a Maths and Computer Science student at the University of Granada. I'm a passionate about programming and cibersecurity specifically in cryptography.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -17,26 +17,37 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
+        "username": "MarioRgzLpz",
         "url": "https://linkedin.com/in/MarioRgzLpz"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
+        "username": "MarioRgzLpz",
         "url": "https://github.com/MarioRgzLpz"
       }
     ]
   },
   "work": [
     {
-      "name": "Maths and Computer Science Tutor",
-      "position": "Private Tutor",
+      "name": "",
+      "position": "Maths and Computer Science Tutor",
       "url": "",
       "startDate": "2022-09-10",
       "endDate": null,
       "summary": "I'm a private tutor of Maths and Computer Science for high school and undergraduated students.",
       "highlights": [
-        "Maths", "Algebra", "Calculus"
+        "Geometry", "Algebra", "Calculus"
+      ]
+    },
+    {
+      "name": "Prowler",
+      "position": "Cloud Engineer Intern",
+      "url": "https://github.com/prowler-cloud/prowler",
+      "startDate": "2024-06-10",
+      "endDate": "2025-01-10",
+      "summary": "Worked as a cloud engineer intern in Prowler, creating checks for AWS, and developing new features like the integration with M365.",
+      "highlights": [
+        "Python", "AWS", "Terraform", "M365", "Azure"
       ]
     }
   ],
@@ -173,7 +184,35 @@
       "keywords": [
         "Docker-compose", "Dockerfile", "Docker", "Docker hub"
       ]
+    },
+    {
+      "name": "AWS",
+      "level": "Intermediate",
+      "keywords": [
+        "S3", "EC2", "Lambda", "CloudFormation", "CloudWatch"
+      ]
+    },
+    {
+      "name": "Terraform",
+      "level": "Intermediate",
+      "keywords": [
+        "Infrastructure as Code", "IaC"
+      ]
+    },{
+      "name": "Azure",
+      "level": "Intermediate",
+      "keywords": [
+        "Compliance", "Security Comprobations"
+      ]
+    }, {
+      "name": "M365",
+      "level": "Intermediate",
+      "keywords": [
+        "Compliance"
+      ]
     }
+
+
   ],
   "languages": [
     {
@@ -199,7 +238,7 @@
   "projects": [
     {
       "name": "Complainopolis",
-      "isActive": true,
+      "isActive": false,
       "description": "Proyect for TW subject",
       "highlights": [
         "HTML+CSS+JS","MySQL","PHP"
@@ -209,7 +248,7 @@
     },
     {
       "name": "Oriented Object Design & Programming",
-      "isActive": true,
+      "isActive": false,
       "description": "Proyect for PDOO subject",
       "highlights": [
         "Java","Ruby","Netbeans","AWT"
@@ -219,7 +258,7 @@
     },
     {
       "name": "Graphical Computing",
-      "isActive": true,
+      "isActive": false,
       "description": "Proyect for IG subject",
       "highlights": [
         "C++","OpenGL","GLUT","GLM"
@@ -229,13 +268,31 @@
     },
     {
       "name": "Web Aplications Development",
-      "isActive": true,
+      "isActive": false,
       "description": "Proyect for DAI subject",
       "highlights": [
         "Python+Flask","HTML+CSS+JS","Bootstrap","MongoDB","Docker","Docker-Compose","Nginx","Gunicorn"
       ],
       "url": "https://github.com/MarioRgzLpz/DAI",
       "github": "https://github.com/MarioRgzLpz/DAI"
+    },{
+      "name": "ArbitrageBets",
+      "isActive": false,
+      "description": "Software for arbitrage betting",
+      "highlights": [
+        "Rust","Docker","GitHub Actions","Circle CI","AppVeyor"
+      ],
+      "url": "https://github.com/MarioRgzLpz/ArbitrageBets",
+      "github": "https://github.com/MarioRgzLpz/ArbitrageBets"
+    },{
+      "name": "Multimedia Systems",
+      "isActive": false,
+      "description": "Proyect for Multimedia subject",
+      "highlights": [
+        "Java","Netbeans","Java Swing","ImageProcessing"
+      ],
+      "url": "https://github.com/MarioRgzLpz/SMM-UGR",
+      "github": "https://github.com/MarioRgzLpz/SMM-UGR"
     }
   ]
 }
